@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+host = "https://paster.cschen.io/"
+puts `curl -s -X POST -d $'#{ARGF.read}' #{host}`
