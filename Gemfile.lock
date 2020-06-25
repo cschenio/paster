@@ -7,7 +7,7 @@ GEM
       bson (>= 4.4.2, < 5.0.0)
     multi_json (1.13.1)
     mustermann (1.0.3)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-protection (2.0.5)
       rack
     rouge (3.3.0)
